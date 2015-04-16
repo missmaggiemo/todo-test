@@ -1,6 +1,6 @@
 # TODO
 
-0. Build Tornado API backend.
+0. ~~Build Tornado API backend.~~
 
 0. Get Angular + Coffeescript + sass running with Grunt.
 
