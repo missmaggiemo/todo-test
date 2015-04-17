@@ -1,0 +1,24 @@
+{
+  "name": "static",
+  "version": "0.0.1",
+  "homepage": "https://github.com/missmaggiemo/todo-test",
+  "authors": [
+    "Maggie Moreno <maggie@missmaggiemo.com>"
+  ],
+  "description": "Static front-end for a simple to-do app.",
+  "main": "static",
+  "moduleType": [
+    "node"
+  ],
+  "keywords": [
+    "todo"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

@@ -1,0 +1,6 @@
+# ignore logs, node mudules, .js files, etc.
+
+*.DS_Store
+*.log
+/static/public/app/**/*.js
+/static/node_modules
